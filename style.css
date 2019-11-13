@@ -1,0 +1,10 @@
+html, body {
+  background-color: white;
+  max-width: 1500px;
+  max-height: 820px;
+  margin: auto;
+  padding: 0;
+}
+canvas {
+  display: inherit;
+}
